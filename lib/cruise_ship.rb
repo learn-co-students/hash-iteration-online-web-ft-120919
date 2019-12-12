@@ -8,7 +8,5 @@
 
 def select_winner(passengers)
   # add the code snippet here!
-  passengers.each do |key, value|
-  puts "Happy Birthday #{value} You are now #{key} years old!: "
-end
+  
 end
