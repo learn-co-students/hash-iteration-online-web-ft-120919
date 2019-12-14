@@ -15,9 +15,12 @@ end
 
 
 def age_appropriate_birthday(birthday_kids)
-  #iterate over each of the key value pair
+  #iterate over each key value pair
   birthday_kids.each do |name, age|
     # binding.pry
+    if name == 
+      
+    end
   end
   #check if age <= 12
 
